@@ -1,2 +1,2 @@
 # SongRecommendation
-Song Recommendation Engine based on user. It uses collaborative filtering and finally it recommends songs.
+This project involves building a song recommendation system using collaborative filtering techniques. Collaborative filtering leverages the preferences and behaviors of users to recommend items, in this case, songs, based on their similarities with other users' preferences. The implementation utilizes Python, along with popular libraries such as pandas, numpy, matplotlib, and scikit-learn.
